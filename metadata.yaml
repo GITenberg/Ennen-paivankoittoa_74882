@@ -1,0 +1,39 @@
+_repo: Ennen-paivankoittoa_74882
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kukkonen, Toivo A.
+    gutenberg_agent_id: '57704'
+    url: http://www.gutenberg.org/2009/agents/57704
+creator:
+  author:
+    agent_name: Viebig, Clara
+    aliases:
+    - Cohn, Clara Viebig
+    - Viebig, Klara
+    - Fibich, Klara
+    - Cohn-Viebig, Clara
+    - Viebig, C. (Clara)
+    birthdate: 1860
+    deathdate: 1952
+    gutenberg_agent_id: '34774'
+    url: http://www.gutenberg.org/2009/agents/34774
+    wikipedia: http://de.wikipedia.org/wiki/Clara_Viebig
+description: ''
+gutenberg_issued: '2024-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74882'
+language: fi
+pgterms:marc905: 20241114034013viebig
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ennen päivänkoittoa
+url: http://www.gutenberg.org/ebooks/74882
