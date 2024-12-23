@@ -5,6 +5,9 @@ contributor:
     agent_name: Kukkonen, Toivo A.
     gutenberg_agent_id: '57704'
     url: http://www.gutenberg.org/2009/agents/57704
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Viebig, Clara
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34774
     wikipedia: http://de.wikipedia.org/wiki/Clara_Viebig
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74882#Ennen-paivankoittoa
 gutenberg_issued: '2024-12-12'
 gutenberg_type: Text
 identifiers:
